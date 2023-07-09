@@ -5,4 +5,4 @@ Basic Anime streaming web. It uses <a href="https://github.com/consumet/api.cons
 It written in only HTML, CSS and JS.
 
 # Website:
-<a href="https://ihazmy.github.io/">
+<a href="https://ihazmy.github.io/">Stream on web</a>
